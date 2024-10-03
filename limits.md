@@ -1,19 +1,19 @@
 | Game                          | Limit                        | Growth Rate               | Creator         | Link                                                                  | Number Format                       
 |-------------------------------|------------------------------|---------------------------|-----------------|-----------------------------------------------------------------------|----------------------|
-| Endless Stairwell             | 10{{1}}9e15 - K9e15          | Expansion                 | Demonin         | https://gsui5051.github.io/Endless-Stairwell/Endless-Stairwell.html   | ExpantaNum      |
-| Reinhardt's House             | 10{1000}10 - J1,000          | Ackermannian              | Reinhardt       | https://reinhardt-c.github.io/ReinHouse/                              | OmegaNum |
-| The Pro Tree                  | 10^^^^1000 - H1,000          | Pentational:Exponential^3 | ProGamesGrinder | https://raw.githack.com/ProGamesOP/The-Modding-Tree/master/index.html | OmegaNum |
-| The Communitree!              | 10^^^10^10^1000 - Ge1e1,000  | Pentational:Exponential^2 | ducdat0507      | https://ducdat0507.github.io/communitree/                             | OmegaNum  |
-| Lngi Incremental              | 10^^^1.8e308 - G1e308        | Pentational:Exponential   | Katakana        | https://lngi-incremental.glitch.me/                                   |
-| True Infinity Beta            | 10^^10^^450 - FF450          | Tetrational^2             | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/beta                       |
-| 1 Generator Infinite Upgrades | 10^^10^10^10000 - Fe1e10,000 | Tetrational:Exponential^2 | Naruyoko        | https://naruyoko.github.io/one-generator--infinite-upgrades/          |
-| 1G∞U Vepro Mod                | 10^^10^10^10000 - Fe1e10,000 | Tetrational:Exponential^2 | VeproGames      | https://veprogames.github.io/one-generator--infinite-upgrades/        |
-| Towers of Googology           | 10^^10^10^1000 - Fe1e1,000   | Tetrational:Exponential^2 | ducdat0507      | https://ducdat0507.github.io/towers/                                  |
-| The Prestreestuck             | 10^^1.8e308 - F1.8e308       | Tetrational:Exponential   | ducdat0507      | https://ducdat0507.github.io/prestreestuck/                           |
-| The Incrementreeverse         | 10^^1.7e308 - F1.7e308       | Tetrational:Exponential   | pg132           | https://raw.githack.com/pg132/The-Modding-Tree/master/index.html                           |
-| Incremental Unlimited 2       | 10^^10^308 - F1e308          | Tetrational:Exponential   | Number Engineer | https://bit.ly/incremental-Unlimited-2                                |
-| Plague Tree                   | 10^^10^41 - F1e41            | Tetrational:Exponential   | Vorona          | https://c0v1d-9119361.github.io/The-Plague-Tree/                      |
-| The Unscaled Incremental      | 10^^10^15 - F1e15            | Tetrational:polynomial    | SuperSpruce     | https://superspruce.github.io/TheUnscaledIncremental/                 |
+| Endless Stairwell             | 10{{1}}9e15 - K9e15          | Expansion                 | Demonin         | https://gsui5051.github.io/Endless-Stairwell/Endless-Stairwell.html   | ExpantaNum (K9e15)      |
+| Reinhardt's House             | 10{1000}10 - J1,000          | Ackermannian              | Reinhardt       | https://reinhardt-c.github.io/ReinHouse/                              | OmegaNum (J9e15) |
+| The Pro Tree                  | 10^^^^1000 - H1,000          | Pentational:Exponential^3 | ProGamesGrinder | https://raw.githack.com/ProGamesOP/The-Modding-Tree/master/index.html | OmegaNum (J9e15) |
+| The Communitree!              | 10^^^10^10^1000 - Ge1e1,000  | Pentational:Exponential^2 | ducdat0507      | https://ducdat0507.github.io/communitree/                             | OmegaNum (J9e15) |
+| Lngi Incremental              | 10^^^1.8e308 - G1e308        | Pentational:Exponential   | Katakana        | https://lngi-incremental.glitch.me/                                   | OmegaNum (J9e15) |
+| True Infinity Beta            | 10^^10^^450 - FF450          | Tetrational^2             | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/beta                       | OmegaNum (J9e15) |
+| 1 Generator Infinite Upgrades | 10^^10^10^10000 - Fe1e10,000 | Tetrational:Exponential^2 | Naruyoko        | https://naruyoko.github.io/one-generator--infinite-upgrades/          | OmegaNum (J9e15) |
+| 1G∞U Vepro Mod                | 10^^10^10^10000 - Fe1e10,000 | Tetrational:Exponential^2 | VeproGames      | https://veprogames.github.io/one-generator--infinite-upgrades/        | OmegaNum (J9e15) |
+| Towers of Googology           | 10^^10^10^1000 - Fe1e1,000   | Tetrational:Exponential^2 | ducdat0507      | https://ducdat0507.github.io/towers/                                  | OmegaNum (J9e15) |
+| The Prestreestuck             | 10^^1.8e308 - F1.8e308       | Tetrational:Exponential   | ducdat0507      | break-eternity (F1e308) | https://ducdat0507.github.io/prestreestuck/                           |
+| The Incrementreeverse         | 10^^1.7e308 - F1.7e308       | Tetrational:Exponential   | pg132           | https://raw.githack.com/pg132/The-Modding-Tree/master/index.html                           | break-eternity (F1e308) |
+| Incremental Unlimited 2       | 10^^10^308 - F1e308          | Tetrational:Exponential   | Number Engineer | https://bit.ly/incremental-Unlimited-2                                |  break-eternity (F1e308) |
+| Plague Tree                   | 10^^10^41 - F1e41            | Tetrational:Exponential   | Vorona          | https://c0v1d-9119361.github.io/The-Plague-Tree/                      |  break-eternity (F1e308) |
+| The Unscaled Incremental      | 10^^10^15 - F1e15            | Tetrational:polynomial    | SuperSpruce     | https://superspruce.github.io/TheUnscaledIncremental/                 | break-eternity  |
 | Tetrational Madness           | 10^^200000 - F200,000        | >=Tetrational             | Patcail         | https://scratch.mit.edu/projects/341525196/                           |
 | True Tetrational              | 10^^10000 - F10,000          | Tetrational:Polynomial    | Patcail         | https://scratch.mit.edu/projects/310919497/                           |
 | True Infinity Alpha           | 10^^6 - F6                   | Exponential^5             | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/alpha/                     |
