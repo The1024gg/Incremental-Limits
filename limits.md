@@ -1,5 +1,5 @@
 | Game                          | Limit                        | Growth Rate               | Creator         | Link                                                                  | Number Format                       
-|-------------------------------|------------------------------|---------------------------|-----------------|-----------------------------------------------------------------------|
+|-------------------------------|------------------------------|---------------------------|-----------------|-----------------------------------------------------------------------|----------------------|
 | Endless Stairwell             | 10{{1}}9e15 - K9e15          | Expansion                 | Demonin         | https://gsui5051.github.io/Endless-Stairwell/Endless-Stairwell.html   | ExpantaNum      |
 | Reinhardt's House             | 10{1000}10 - J1,000          | Ackermannian              | Reinhardt       | https://reinhardt-c.github.io/ReinHouse/                              | OmegaNum |
 | The Pro Tree                  | 10^^^^1000 - H1,000          | Pentational:Exponential^3 | ProGamesGrinder | https://raw.githack.com/ProGamesOP/The-Modding-Tree/master/index.html | OmegaNum |
