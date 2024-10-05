@@ -3,7 +3,7 @@
 | Endless Stairwell             | 10{{1}}9e15 - K9e15          | Expansion                 | Demonin         | https://gsui5051.github.io/Endless-Stairwell/Endless-Stairwell.html   | ExpantaNum (K9e15)      |
 | Reinhardt's House             | 10{1000}10 - J1,000          | Ackermannian              | Reinhardt       | https://reinhardt-c.github.io/ReinHouse/                              | OmegaNum (J9e15) |
 | The Pro Tree                  | 10^^^^1000 - H1,000          | Pentational:Exponential^3 | ProGamesGrinder | https://raw.githack.com/ProGamesOP/The-Modding-Tree/master/index.html | OmegaNum (J9e15) |
-| The Communitree!              | 10^^^10^10^800 - Ge1e800  | Pentational:Exponential^2 | ducdat0507      | https://ducdat0507.github.io/communitree/                             | OmegaNum (J9e15) |
+| The Communitree!              | 10^^^10^10^30,000 - Ge1e30,000  | Pentational:Exponential^2 | ducdat0507      | https://ducdat0507.github.io/communitree/                             | OmegaNum (J9e15) |
 | Lngi Incremental              | 10^^^1.8e308 - G1e308        | Pentational:Exponential   | Katakana        | https://lngi-incremental.glitch.me/                                   | OmegaNum (J9e15) |
 | True Infinity Beta            | 10^^10^^450 - FF450          | Tetrational^2             | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/beta                       | OmegaNum (J9e15) |
 | 1 Generator Infinite Upgrades | 10^^10^10^10000 - Fe1e10,000 | Tetrational:Exponential^2 | Naruyoko        | https://naruyoko.github.io/one-generator--infinite-upgrades/          | OmegaNum (J9e15) |
